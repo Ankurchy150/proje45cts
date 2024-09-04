@@ -1,2 +1,2 @@
 # proje45cts
-development of Hotstar clone frontend
+developed tic tac toe with html,css,js
